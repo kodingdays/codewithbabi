@@ -1,0 +1,31 @@
+body {
+  #parent of all elements so inherited by all child elements#
+  font-size: 20px; 
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+  background-color: pink;
+}
+p {
+  background-color: black;
+  color: limegreen;
+  padding: 10px;
+}
+button {
+  font-size: 24px;
+  color: teal;
+}
+span {
+  color: red;
+  font-weight: bold;
+}
+input[type="text"] {
+  color: orange;
+  font-size: 24px;
+}
+div {
+  color: #666;
+}
